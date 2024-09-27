@@ -27,7 +27,7 @@ const Header: React.FC = () => {
 
     return (
         <div className="relative">
-            <div className="flex justify-between items-center p-5 bg-slate-500">
+            <div className="flex justify-between items-center p-5 bg-slate-700">
                 <h1 className="text-2xl lg:text-4xl font-bold text-white">E-Commerce</h1>
                 <button
                     onClick={toggleDropdown}

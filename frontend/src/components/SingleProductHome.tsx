@@ -13,19 +13,19 @@ function SingleProductHome() {
             </div>
             <div className="flex flex-col justify-center w-full md:w-2/4 p-5">
                 <h1 className="text-3xl lg:text-4xl font-semibold">Essence Mascara Lash Princess</h1>
-                <p className="text-gray-400 mt-10 mb-2 font-semibold text-md lg:text-lg">
+                <p className="text-gray-400 mt-7 mb-2 font-semibold text-md lg:text-lg">
                     The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula
                 </p>
-                <span className="text-gray-600 font-bold">Stars 3</span>
+                <span className="text-green-600 font-bold">Stars 3</span>
             </div>
             <div className="w-full md:w-1/4 p-5 flex flex-col justify-center">
                 <div className="flex justify-start">
                     <span className="text-xl font-semibolds">₹</span>
-                    <span className="text-4xl lg:text-5xl font-bold mb-2">1000</span>
+                    <span className="text-4xl lg:text-5xl font-bold mb-1">1000</span>
 
 
                 </div>
-                <span className="block mb-2 text-sm text-gray-600 font-semibold">
+                <span className="block mb-1 text-sm text-gray-600 font-semibold">
                     Fast Delivery
                 </span>
                 <button className="bg-sky-700 hover:bg-sky-800 text-white p-2 rounded w-full lg:w-[250px]  mt-10">
