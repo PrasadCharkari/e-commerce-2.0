@@ -26,12 +26,12 @@ const Header: React.FC = () => {
     }, [isOpen]);
 
     return (
-        <div className="relative ">
-            <div className="flex justify-between items-center p-4  bg-gray-300">
-                <h1 className="text-2xl font-bold text-slate-800">E-Commerce</h1>
+        <div className="relative">
+            <div className="flex justify-between items-center p-5 bg-slate-500">
+                <h1 className="text-2xl lg:text-4xl font-bold text-white">E-Commerce</h1>
                 <button
                     onClick={toggleDropdown}
-                    className="bg-sky-700 text-white px-4 py-2 rounded hover:bg-sky-800 transition duration-200  w-[100px]"
+                    className="bg-sky-700 hover:bg-sky-800 text-white px-4 py-2 rounded  transition duration-200 w-[100px] border border-gray-400"
                 >
                     Cart
                 </button>
@@ -53,7 +53,7 @@ const Header: React.FC = () => {
                         <div className="p-2 hover:bg-gray-100 cursor-pointer">Product 5</div>
                     </div>
                     <Link href="/cart" passHref>
-                        <button className="w-full bg-blue-500 text-white p-2 rounded-b hover:bg-blue-600 transition duration-200 text-center">
+                        <button className="w-full bg-blue-500  hover:bg-blue-600 text-white p-2 rounded-b transition duration-200 text-center">
                             Go to Cart
                         </button>
                     </Link>

@@ -6,10 +6,12 @@ import SearchBar from "@/components/SearchBar";
 
 export default function Home() {
   return (
-    <div className="flex flex-col h-screen bg-gray-100">
+    <div className="flex flex-col h-screen bg-slate-100">
       <Header />
       <ProductsSorter />
       <div className="flex-grow overflow-auto">
+        <ProductsList />
+        <ProductsList />
         <ProductsList />
       </div>
       <SearchBar />

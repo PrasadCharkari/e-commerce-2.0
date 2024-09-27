@@ -9,12 +9,12 @@ function ProductsSorter() {
     };
 
     return (
-        <div className="flex flex-col flex-shrink-0 md:flex-row items-center  rounded-md overflow-hidden justify-center mt-5 mb-5 ">
+        <div className="flex flex-col flex-shrink-0 md:flex-row items-center  rounded-md overflow-hidden justify-center mt-6 pb-6 border-b-2 border-gray-300">
 
             <div className="sm:hidden">
                 <button
                     onClick={toggleDropdown}
-                    className="w-full bg-gray-300 text-left p-2 focus:outline-none rounded"
+                    className="w-full  bg-sky-700 hover:bg-sky-800  text-white text-left p-2 focus:outline-none rounded"
                 >
                     Sort Products
                 </button>
