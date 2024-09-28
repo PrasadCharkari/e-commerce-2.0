@@ -1,3 +1,4 @@
+"use client"
 import Header from "@/components/Header";
 import ProductsList from "@/components/ProductsList";
 import ProductsSorter from "@/components/ProductsSorter";

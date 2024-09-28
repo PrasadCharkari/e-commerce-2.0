@@ -1,4 +1,4 @@
-"use client";
+"use client"
 import React, { createContext, useContext, useReducer, ReactNode, useEffect } from 'react';
 import { productsReducer } from '../reducers/ProductsReducer';
 import { Product } from '../types';
@@ -6,7 +6,7 @@ import axios from 'axios';
 
 interface ProductsContextProps {
     products: Product[];
-    dispatch: React.Dispatch<any>;
+    dispatch: React.Dispatch<any>; // Ensure dispatch is exposed
 }
 
 const ProductsContext = createContext<ProductsContextProps | undefined>(undefined);
@@ -17,7 +17,7 @@ export const ProductsProvider: React.FC<{ children: ReactNode }> = ({ children }
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const response = await axios.get('/data.json'); // 
+                const response = await axios.get('/data.json');
                 dispatch({ type: 'SET_PRODUCTS', payload: response.data });
             } catch (error) {
                 console.error('Error fetching products:', error);

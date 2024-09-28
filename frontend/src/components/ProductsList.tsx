@@ -3,6 +3,8 @@ import React from 'react';
 import SingleProductHome from './SingleProductHome';
 import { useProducts } from '../context/ProductsContext';
 
+
+
 function ProductsList() {
     const { products } = useProducts();
 
