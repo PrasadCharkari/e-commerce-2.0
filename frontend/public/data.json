@@ -1,0 +1,708 @@
+[
+  {
+    "id": 12932,
+    "title": "Essence Mascara Lash Princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "beauty",
+    "price": 750,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 67110,
+    "title": "Eyeshadow Palette with Mirror",
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "category": "beauty",
+    "price": 1500,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 54321,
+    "title": "Powder Canister",
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "category": "beauty",
+    "price": 1125,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 98765,
+    "title": "Red Lipstick",
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "category": "beauty",
+    "price": 975,
+    "rating": 2,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 34567,
+    "title": "Red Nail Polish",
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "category": "beauty",
+    "price": 675,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 37912,
+    "title": "Calvin Klein CK One",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "category": "fragrances",
+    "price": 3740,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 28374,
+    "title": "Chanel Coco Noir Eau De",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "fragrances",
+    "price": 9750,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 47521,
+    "title": "Dior J'adore",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "fragrances",
+    "price": 6740,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 82654,
+    "title": "Dolce Shine Eau de",
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "category": "fragrances",
+    "price": 5240,
+    "rating": 2,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 39478,
+    "title": "Gucci Bloom Eau de",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "category": "fragrances",
+    "price": 5990,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+      "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png",
+    "fastDelivery": true
+  },
+
+  {
+    "id": 48279,
+    "title": "Rolex Cellini Date Black Dial",
+    "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+    "category": "mens-watches",
+    "price": 674990,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Date%20Black%20Dial/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 76104,
+    "title": "Rolex Cellini Moonphase",
+    "description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+    "category": "mens-watches",
+    "price": 974990,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Cellini%20Moonphase/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 58123,
+    "title": "Rolex Datejust",
+    "description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+    "category": "mens-watches",
+    "price": 824990,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Datejust/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 39485,
+    "title": "Rolex Submariner Watch",
+    "description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+    "category": "mens-watches",
+    "price": 1049900,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/1.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/2.png",
+      "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 47382,
+    "title": "Amazon Echo Plus",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "category": "mobile-accessories",
+    "price": 7490,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/1.png",
+      "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/2.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Amazon%20Echo%20Plus/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 56714,
+    "title": "Apple Airpods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "category": "mobile-accessories",
+    "price": 9740,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/1.png",
+      "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/2.png",
+      "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 10045,
+    "title": "Annibale Colombo Bed",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "category": "furniture",
+    "price": 1900,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png",
+    "fastDelivery": false
+}
+,
+{
+  "id": 56789,
+  "title": "Apple",
+  "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+  "category": "groceries",
+  "price": 200,
+  "rating": 3,
+  "images": [
+      "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png",
+  "fastDelivery": false
+}
+,
+{
+  "id": 23456,
+  "title": "Bedside Table African Cherry",
+  "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+  "category": "furniture",
+  "price": 300,
+  "rating": 4,
+  "images": [
+      "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+      "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+      "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+  "fastDelivery": false
+}
+,
+{
+  "id": 45678,
+  "title": "Wooden Bathroom Sink With Mirror",
+  "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+  "category": "furniture",
+  "price": 800,
+  "rating": 3,
+  "images": [
+      "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png",
+      "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
+      "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png",
+  "fastDelivery": false
+}
+,
+{
+  "id": 67890,
+  "title": "Annibale Colombo Sofa",
+  "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+  "category": "furniture",
+  "price": 2500,
+  "rating": 3,
+  "images": [
+      "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+      "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+      "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png",
+  "fastDelivery": false
+}
+,
+
+{
+    "id": 34872,
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "category": "laptops",
+    "price": 149990,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 52904,
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    "category": "laptops",
+    "price": 134990,
+    "rating": 3,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 61234,
+    "title": "Huawei Matebook X Pro",
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "category": "laptops",
+    "price": 104990,
+    "rating": 5,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 17364,
+    "title": "Lenovo Yoga 920",
+    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "category": "laptops",
+    "price": 82490,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 29576,
+    "title": "New DELL XPS 13 9300 Laptop",
+    "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    "category": "laptops",
+    "price": 112490,
+    "rating": 3,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/1.png",
+        "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/2.png",
+        "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 58492,
+    "title": "Blue & Black Check Shirt",
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "category": "mens-shirts",
+    "price": 22490,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 72658,
+    "title": "Gigabyte Aorus Men Tshirt",
+    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "category": "mens-shirts",
+    "price": 18750,
+    "rating": 5,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 83972,
+    "title": "Man Plaid Shirt",
+    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "category": "mens-shirts",
+    "price": 26250,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/2.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/3.png",
+        "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 52618,
+    "title": "Pan",
+    "description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+    "category": "kitchen-accessories",
+    "price": 1870,
+    "rating": 3,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 17435,
+    "title": "Plate",
+    "description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+    "category": "kitchen-accessories",
+    "price": 300,
+    "rating": 3,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 52129,
+    "title": "Red Tongs",
+    "description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+    "category": "kitchen-accessories",
+    "price": 525,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 29468,
+    "title": "Silver Pot With Glass Cap",
+    "description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+    "category": "kitchen-accessories",
+    "price": 3000,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 81457,
+    "title": "Slotted Turner",
+    "description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+    "category": "kitchen-accessories",
+    "price": 675,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 13958,
+    "title": "Spice Rack",
+    "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+    "category": "kitchen-accessories",
+    "price": 1490,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 28369,
+    "title": "Spoon",
+    "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+    "category": "kitchen-accessories",
+    "price": 375,
+    "rating": 5,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 74291,
+    "title": "Tray",
+    "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+    "category": "kitchen-accessories",
+    "price": 1270,
+    "rating": 3,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/thumbnail.png",
+    "fastDelivery": false
+},
+{
+    "id": 63428,
+    "title": "Wooden Rolling Pin",
+    "description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+    "category": "kitchen-accessories",
+    "price": 900,
+    "rating": 5,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 49213,
+    "title": "Yellow Peeler",
+    "description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+    "category": "kitchen-accessories",
+    "price": 450,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/thumbnail.png",
+    "fastDelivery": true
+},
+{
+    "id": 67329,
+    "title": "Decoration Swing",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "category": "home-decoration",
+    "price": 4500,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/1.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/2.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 51427,
+    "title": "Family Tree Photo Frame",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "category": "home-decoration",
+    "price": 2250,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 82731,
+    "title": "House Showpiece Plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "category": "home-decoration",
+    "price": 3000,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/1.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/2.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 92845,
+    "title": "Plant Pot",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "category": "home-decoration",
+    "price": 1120,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/1.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/2.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/3.png",
+      "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/4.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 49312,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "category": "home-decoration",
+    "price": 3750,
+    "rating": 5,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 69483,
+    "title": "Bamboo Spatula",
+    "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    "category": "kitchen-accessories",
+    "price": 600,
+    "rating": 4,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/1.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Bamboo%20Spatula/thumbnail.png",
+    "fastDelivery": false
+  },
+  {
+    "id": 81294,
+    "title": "Black Aluminium Cup",
+    "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "category": "kitchen-accessories",
+    "price": 450,
+    "rating": 3,
+    "images": [
+      "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/1.png",
+      "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/2.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Black%20Aluminium%20Cup/thumbnail.png",
+    "fastDelivery": true
+  },
+  {
+    "id": 30007,
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "category": "furniture",
+    "price": 500,
+    "rating": 4,
+    "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png",
+    "fastDelivery": false
+},
+{
+  "id": 99628,
+  "title": "Ice Cream",
+  "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+  "category": "groceries",
+  "price": 450,
+  "rating": 4,
+  "images": [
+      "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png",
+      "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png",
+      "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/3.png",
+      "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/4.png"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png",
+  "fast delivery": true
+},
+{
+  "id": 11029,
+  "title": "Juice",
+  "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+  "category": "groceries",
+  "price": 330,
+  "rating": 3,
+  "images": [
+      "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png",
+  "fast delivery": true
+}
+
+]
