@@ -3,7 +3,6 @@ import ProductsList from "@/components/ProductsList";
 import ProductsSorter from "@/components/ProductsSorter";
 import SearchBar from "@/components/SearchBar";
 
-
 export default function Home() {
   return (
     <div className="flex flex-col h-screen bg-slate-100">
@@ -11,10 +10,8 @@ export default function Home() {
       <ProductsSorter />
       <div className="flex-grow overflow-auto">
         <ProductsList />
-        <ProductsList />
-        <ProductsList />
       </div>
       <SearchBar />
     </div>
-  )
+  );
 }
