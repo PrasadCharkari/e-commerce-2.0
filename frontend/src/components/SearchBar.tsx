@@ -1,13 +1,26 @@
-import React from 'react';
+"use client";
+import React, { useContext } from 'react';
+import { useProducts } from '../context/ProductsContext';
 
 function SearchBar() {
+  const { dispatch } = useProducts();
+
+  const handleChange = (event: any) => {
+    const query = event.target.value;
+    dispatch({ type: 'SET_SEARCH_QUERY', payload: query });
+  };
+
+  const handleSubmit = (event: any) => {
+    event.preventDefault();
+  };
+
   return (
-    <form action="/search" method="GET" className="flex flex-shrink-0 items-center border border-gray-300 rounded-md overflow-hidden">
+    <form onSubmit={handleSubmit} className="flex flex-shrink-0 items-center border border-gray-300 rounded-md overflow-hidden">
       <input
         type="text"
         name="query"
+        onChange={handleChange}
         placeholder="Search products..."
-        required
         className="flex-grow p-2 border-none focus:outline-none focus:ring-2 focus:ring-blue-500"
       />
       <button

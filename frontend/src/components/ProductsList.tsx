@@ -1,17 +1,21 @@
 "use client";
-import React from 'react';
+import React, { useContext } from 'react';
 import SingleProductHome from './SingleProductHome';
 import { useProducts } from '../context/ProductsContext';
 
 
-
 function ProductsList() {
-    const { products } = useProducts();
+    const { products, searchQuery } = useProducts();
+
+
+    const filteredProducts = products.filter(product =>
+        product.title.toLowerCase().includes(searchQuery.toLowerCase())
+    );
 
     return (
         <div className='overflow-hidden'>
-            {products.length > 0 ? (
-                products.map(product => (
+            {filteredProducts.length > 0 ? (
+                filteredProducts.map(product => (
                     <SingleProductHome key={product.id} product={product} />
                 ))
             ) : (

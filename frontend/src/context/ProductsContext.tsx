@@ -1,18 +1,19 @@
 "use client"
 import React, { createContext, useContext, useReducer, ReactNode, useEffect } from 'react';
 import { productsReducer } from '../reducers/ProductsReducer';
-import { Product } from '../types';
 import axios from 'axios';
+import { Product } from '../types';
 
 interface ProductsContextProps {
     products: Product[];
-    dispatch: React.Dispatch<any>; // Ensure dispatch is exposed
+    searchQuery: string;
+    dispatch: React.Dispatch<any>;
 }
 
 const ProductsContext = createContext<ProductsContextProps | undefined>(undefined);
 
 export const ProductsProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-    const [products, dispatch] = useReducer(productsReducer, []);
+    const [state, dispatch] = useReducer(productsReducer, { products: [], searchQuery: '' });
 
     useEffect(() => {
         const fetchProducts = async () => {
@@ -28,7 +29,7 @@ export const ProductsProvider: React.FC<{ children: ReactNode }> = ({ children }
     }, []);
 
     return (
-        <ProductsContext.Provider value={{ products, dispatch }}>
+        <ProductsContext.Provider value={{ products: state.products, searchQuery: state.searchQuery, dispatch }}>
             {children}
         </ProductsContext.Provider>
     );
@@ -41,3 +42,5 @@ export const useProducts = () => {
     }
     return context;
 };
+
+export default ProductsContext;
