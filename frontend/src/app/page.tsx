@@ -2,6 +2,7 @@ import Header from "@/components/Header";
 import ProductsList from "@/components/ProductsList";
 import ProductsSorter from "@/components/ProductsSorter";
 import SearchBar from "@/components/SearchBar";
+import CustomToastContainer from "@/components/ToastContainer";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         <ProductsList />
       </div>
       <SearchBar />
+      <CustomToastContainer />
     </div>
   );
 }

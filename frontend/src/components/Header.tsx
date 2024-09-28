@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useCart } from '../context/CartContext';
+import { FaCartShopping } from "react-icons/fa6";
 
 const Header: React.FC = () => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
@@ -25,6 +26,8 @@ const Header: React.FC = () => {
         };
     }, [isOpen]);
 
+    const totalItems = cartItems.reduce((total, item) => total + item.quantity, 0);
+
     return (
         <div className="relative">
             <div className="flex justify-between items-center p-5 bg-slate-700">
@@ -33,7 +36,10 @@ const Header: React.FC = () => {
                     onClick={toggleDropdown}
                     className="bg-sky-700 hover:bg-sky-800 text-white px-4 py-2 rounded transition duration-200 w-[100px] border border-gray-400"
                 >
-                    Cart
+                    <div className='flex justify-center'>
+                        <span className='mt-1 mr-2'><FaCartShopping /></span>
+                        <span>{totalItems > 0 ? totalItems : 0}</span>
+                    </div>
                 </button>
             </div>
 
@@ -43,7 +49,7 @@ const Header: React.FC = () => {
                         {cartItems.length > 0 ? (
                             cartItems.map(item => (
                                 <div key={item.id} className="p-2 hover:bg-gray-100 cursor-pointer">
-                                    {item.name} (Qty: {item.quantity})
+                                    {item.title} (Qty: {item.quantity})
                                 </div>
                             ))
                         ) : (

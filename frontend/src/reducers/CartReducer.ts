@@ -1,23 +1,31 @@
 import { CartItem } from "../types";
 
-export const cartReducer = (state: CartItem[], action: any) => {
+interface Action {
+  type: string;
+  payload: any;
+}
+
+export const cartReducer = (state: CartItem[], action: Action) => {
   switch (action.type) {
     case "ADD_TO_CART":
-      const existingItemIndex = state.findIndex(
-        (item) => item.id === action.payload.id
-      );
-      if (existingItemIndex >= 0) {
-        const updatedCart = [...state];
-        updatedCart[existingItemIndex].quantity += action.payload.quantity;
-        return updatedCart;
+      const existingItem = state.find((item) => item.id === action.payload.id);
+      if (existingItem) {
+        return state.map((item) =>
+          item.id === action.payload.id
+            ? { ...item, quantity: item.quantity + 1 }
+            : item
+        );
       } else {
-        return [
-          ...state,
-          { ...action.payload, quantity: action.payload.quantity },
-        ];
+        return [...state, { ...action.payload, quantity: 1 }];
       }
     case "REMOVE_FROM_CART":
       return state.filter((item) => item.id !== action.payload);
+    case "UPDATE_QUANTITY":
+      return state.map((item) =>
+        item.id === action.payload.id
+          ? { ...item, quantity: action.payload.quantity }
+          : item
+      );
     default:
       return state;
   }

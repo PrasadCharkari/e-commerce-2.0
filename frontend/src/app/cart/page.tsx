@@ -4,11 +4,12 @@ import { useCart } from '@/context/CartContext';
 import SingleProductCart from '@/components/SingleProductCart';
 
 function CartPage() {
-    const { cartItems, dispatch } = useCart();
+    const { cartItems, dispatch, updateQuantity } = useCart();
 
     const handleRemove = (id: string) => {
         dispatch({ type: 'REMOVE_FROM_CART', payload: id });
     };
+
 
     const subtotal = cartItems.reduce((total, item) => total + (item.price * item.quantity), 0);
 
@@ -25,6 +26,7 @@ function CartPage() {
                             key={item.id}
                             item={item}
                             onRemove={handleRemove}
+                            onUpdateQuantity={updateQuantity}
                         />
                     ))
                 ) : (
