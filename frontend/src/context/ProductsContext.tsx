@@ -4,6 +4,8 @@ import { productsReducer } from '../reducers/ProductsReducer';
 import axios from 'axios';
 import { Product } from '../types';
 
+
+
 interface ProductsContextProps {
     products: Product[];
     searchQuery: string;
@@ -13,7 +15,7 @@ interface ProductsContextProps {
 const ProductsContext = createContext<ProductsContextProps | undefined>(undefined);
 
 export const ProductsProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-    const [state, dispatch] = useReducer(productsReducer, { products: [], searchQuery: '' });
+    const [state, dispatch] = useReducer(productsReducer, { products: [], searchQuery: '', sortOption: '' });
 
     useEffect(() => {
         const fetchProducts = async () => {

@@ -5,7 +5,7 @@ import { useProducts } from "../context/ProductsContext";
 
 function ProductsList() {
     const { products, searchQuery } = useProducts();
-    const [page, setPage] = useState(3);
+    const [page, setPage] = useState(1);
 
     const filteredProducts = products.filter((product) =>
         product.title.toLowerCase().includes(searchQuery.toLowerCase())

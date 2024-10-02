@@ -11,6 +11,7 @@ function ProductsSorter() {
     };
 
     const handleSort = (sortOption: string) => {
+
         dispatch({ type: 'SORT_PRODUCTS', payload: sortOption });
         setIsOpen(false); // Close the dropdown after selection
     };
