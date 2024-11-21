@@ -20,7 +20,7 @@ export const ProductsProvider: React.FC<{ children: ReactNode }> = ({ children }
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const response = await axios.get('/api/products/getProducts');
+                const response = await axios.get(`${process.env.NEXT_PUBLIC_API_URL}/api/products/getProducts`);
                 console.log(response.data);
                 dispatch({ type: 'SET_PRODUCTS', payload: response.data });
             } catch (error) {
